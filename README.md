@@ -1,2 +1,2 @@
 # repositorioGithub
-practicando github
+practicando git
